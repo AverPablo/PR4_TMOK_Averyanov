@@ -1,0 +1,28 @@
+{
+  "total_books": 40,
+  "avg_price": 34.96,
+  "avg_rating": 3.05,
+  "price_range": [
+    12.84,
+    57.25
+  ],
+  "most_common_category": "other",
+  "most_expensive_book": {
+    "title": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+    "price": 57.25
+  },
+  "top_rated_books": [
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "rating": 5
+    },
+    {
+      "title": "Worlds Elsewhere: Journeys Around Shakespeare\u2019s Globe",
+      "rating": 5
+    },
+    {
+      "title": "The Four Agreements: A Practical Guide to Personal Freedom",
+      "rating": 5
+    }
+  ]
+}
